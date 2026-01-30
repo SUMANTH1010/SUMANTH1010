@@ -14,11 +14,11 @@
 - ⚡ Fun fact: **I also have a YouTube Channel**
 
 ## 👩‍💻  About Me:
-Java Spring Boot Developer & SDET with strong CS fundamentals and real-world enterprise experience.
-Builds scalable backend services, REST APIs, and full-stack solutions using Java, Spring Boot, SQL, and JavaScript.
-Designs robust UI & API automation frameworks with Playwright, Selenium, TypeScript, and CI/CD pipelines.
-Experienced in Agile, TDD/BDD, cloud-ready systems, and AI-assisted testing for faster, reliable delivery.
-Focused on clean code, testability, performance, and shipping high-quality software end-to-end.
+- Java Spring Boot Developer & SDET with strong CS fundamentals and real-world enterprise experience.
+- Builds scalable backend services, REST APIs, and full-stack solutions using Java, Spring Boot, SQL, and JavaScript.
+- Designs robust UI & API automation frameworks with Playwright, Selenium, TypeScript, and CI/CD pipelines.
+- Experienced in Agile, TDD/BDD, cloud-ready systems, and AI-assisted testing for faster, reliable delivery.
+- Focused on clean code, testability, performance, and shipping high-quality software end-to-end.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yedla-sai-venkata-sumanth-a677a2240) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ysvsumanth6643) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ysvsumanth1010@gmail.com) 

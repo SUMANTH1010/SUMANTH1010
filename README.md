@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+(https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
 - 🔭 I’m currently working as **SDET QA** Automation Test Engineer **@LTIMindtree**
 - 🌱 I’m currently learning **Java Springboot with AWS**

@@ -30,8 +30,14 @@ Focused on clean code, testability, performance, and shipping high-quality softw
 ![](https://nirzak-streak-stats.vercel.app/?user=SUMANTH1010&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUMANTH1010&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SUMANTH1010&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Achievements
+<img width="148" height="148" alt="YOLO_Badge" src="https://github.com/user-attachments/assets/3a502544-9a36-42b0-8cc9-3ccb98365541" />
+<img width="148" height="148" alt="StarStruck_SkinTone1" src="https://github.com/user-attachments/assets/fee5cb7a-9392-4eb9-a40c-cfab5033a6aa" />
+<img width="148" height="148" alt="QuickDraw_SkinTone1" src="https://github.com/user-attachments/assets/8a4438c8-4a73-4ebf-bf07-85953edc4669" />
+<img width="148" height="148" alt="PairExtraordinaire" src="https://github.com/user-attachments/assets/ecedc6d2-4caa-45fd-8397-ecb3dd9f4f1d" />
+<img width="148" height="148" alt="PullShark" src="https://github.com/user-attachments/assets/c9c81377-768a-4b69-9640-a190969d2c0e" />
+<img width="148" height="148" alt="GalaxyBrain" src="https://github.com/user-attachments/assets/ca9056c4-46ad-4db4-bf13-8dc28dc5665c" />
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

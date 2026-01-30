@@ -44,6 +44,7 @@ Focused on clean code, testability, performance, and shipping high-quality softw
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SUMANTH1010&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img width="1124" height="575" alt="Screenshot 2026-01-30 191729" src="https://github.com/user-attachments/assets/fb70d4e6-dcb9-429d-83cd-2248190ae4ab" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SUMANTH1010&icon=0&color=0)](https://visitcount.itsvg.in)

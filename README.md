@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am Sumanth, passionate CSE graduate with hands-on experience in software development, web technologies, and machine learning. 
+I am Sumanth, passionate CSE graduate with hands-on experience in software development, web technologies, and machine learning.
+
+![21004063](https://github.com/user-attachments/assets/caacb35b-a94e-4a90-a2b7-dc2180386f20)
 
 - 🔭 I’m currently working as **SDET QA** Automation Test Engineer **@LTIMindtree**
 - 🌱 I’m currently learning **Java Springboot with AWS**

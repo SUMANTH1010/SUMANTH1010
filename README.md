@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I am Sumanth, passionate CSE graduate with hands-on experience in software development, web technologies, and machine learning.
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>

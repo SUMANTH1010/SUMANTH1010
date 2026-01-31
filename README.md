@@ -1,9 +1,8 @@
+[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Yedla Sai Venkata Sumanth</h1>
 <h3 align="center">Passionate Java Full Stack Developer & SDET</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanth1010&label=Profile%20views&color=0e75b6&style=flat" alt="sumanth1010" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanth1010" alt="sumanth1010" /></a> </p>
+(img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2d4bnRqbmdpMGh5Nmlod3lheXIxbnpmMjBobWE5MnMxczJtZHNwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif")
 
 - 🔭 I’m currently working as **SDET QA Automation Test Engineer**
 

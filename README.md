@@ -29,74 +29,98 @@
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yedla-sai-venkata-sumanth-a677a2240" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<p align="left">
+<a href="https://www.linkedin.com/in/yedla-sai-venkata-sumanth-a677a2240" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-  <a href="https://kaggle.com/ysvsumanth" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="45" width="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://kaggle.com/ysvsumanth" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.youtube.com/@ysvsumanth6643" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="45" width="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@ysvsumanth6643" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.hackerrank.com/ysvsumanth1010" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="45" width="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/ysvsumanth1010" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/sumanth1020" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="45" width="45"/>
-  </a>
+<a href="https://leetcode.com/sumanth1020" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"/>
+</a>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 
-<p align="center">
+<p align="left">
 
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/></a>
+<a href="https://aws.amazon.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
+</a>
 &nbsp;&nbsp;
 
-<a href="https://azure.microsoft.com"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="50" height="50"/></a>
+<a href="https://azure.microsoft.com">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45"/>
+</a>
 &nbsp;&nbsp;
 
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/></a>
+<a href="https://www.java.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+</a>
 &nbsp;&nbsp;
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+</a>
 &nbsp;&nbsp;
 
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/></a>
+<a href="https://www.python.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+</a>
 &nbsp;&nbsp;
 
-<a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/></a>
+<a href="https://reactjs.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
+</a>
 &nbsp;&nbsp;
 
-<a href="https://spring.io"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50"/></a>
+<a href="https://spring.io">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45"/>
+</a>
 &nbsp;&nbsp;
 
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/></a>
+<a href="https://nodejs.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
+</a>
 &nbsp;&nbsp;
 
-<a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50"/></a>
+<a href="https://www.docker.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
+</a>
 &nbsp;&nbsp;
 
-<a href="https://www.selenium.dev"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="50" height="50"/></a>
+<a href="https://www.selenium.dev">
+<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="45" height="45"/>
+</a>
 &nbsp;&nbsp;
 
-<a href="https://tailwindcss.com"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/></a>
+<a href="https://tailwindcss.com">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
+</a>
 &nbsp;&nbsp;
 
-<a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/></a>
+<a href="https://www.typescriptlang.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
+</a>
 
 </p>
 
@@ -105,13 +129,13 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUMANTH1010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SUMANTH1010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUMANTH1010&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SUMANTH1010&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMANTH1010&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMANTH1010&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 ---
@@ -119,24 +143,12 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-
 <img width="140" src="https://github.com/user-attachments/assets/3a502544-9a36-42b0-8cc9-3ccb98365541" />
-&nbsp;&nbsp;
-
 <img width="140" src="https://github.com/user-attachments/assets/fee5cb7a-9392-4eb9-a40c-cfab5033a6aa" />
-&nbsp;&nbsp;
-
 <img width="140" src="https://github.com/user-attachments/assets/8a4438c8-4a73-4ebf-bf07-85953edc4669" />
-&nbsp;&nbsp;
-
 <img width="140" src="https://github.com/user-attachments/assets/ecedc6d2-4caa-45fd-8397-ecb3dd9f4f1d" />
-&nbsp;&nbsp;
-
 <img width="140" src="https://github.com/user-attachments/assets/c9c81377-768a-4b69-9640-a190969d2c0e" />
-&nbsp;&nbsp;
-
 <img width="140" src="https://github.com/user-attachments/assets/ca9056c4-46ad-4db4-bf13-8dc28dc5665c" />
-
 </p>
 
 ---

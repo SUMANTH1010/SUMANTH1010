@@ -1,58 +1,120 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ysvsumanth1010.edgeone.app/Sumanth_Resume.pdf)
+# Hi 👋, I'm Yedla Sai Venkata Sumanth
 
-<h1 align="center">Hi 👋, I'm Yedla Sai Venkata Sumanth</h1>
-<h3 align="center">Passionate Java Full Stack Developer & SDET</h3>
+## 🚀 Java Full Stack Developer | SDET | AI Enthusiast
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanth1010&label=Profile%20views&color=0e75b6&style=flat" alt="sumanth1010" /> </p>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ysvsumanth1010.edgeone.app/Sumanth_Resume.pdf)
 
-- 🔭 I’m currently working as **SDET QA Automation Test Engineer**
-
-- 🌱 I’m currently learning **Java SpringBoot + AWS via project based learning**
-
-- 👯 I’m looking to collaborate on **AI/ML Engineering,Gen AI Advancements**
-
-- 🤝 I’m looking for help with **AWS,Java SpringBoot,DevOps**
-
-- 💬 Ask me about **Tech Advancements and Personal Development**
-
-- 📫 How to reach me **ysvsumanth1010@gmail.com**
-
-- 📄 Know about my experiences [Sumanth Resume](https://ysvsumanth1010.edgeone.app/Sumanth_Resume.pdf)
-
-- ⚡ Fun fact **I enjoy turning real-world problems into clean code—whether it’s cracking a DSA challenge or building a full-stack project from scratch 🚀**
-
-## 👩‍💻  About Me:
-- Java Spring Boot Developer & SDET with strong CS fundamentals and real-world enterprise experience.
-- Builds scalable backend services, REST APIs, and full-stack solutions using Java, Spring Boot, SQL, and JavaScript.
-- Designs robust UI & API automation frameworks with Playwright, Selenium, TypeScript, and CI/CD pipelines.
-- Experienced in Agile, TDD/BDD, cloud-ready systems, and AI-assisted testing for faster, reliable delivery.
-- Focused on clean code, testability, performance, and shipping high-quality software end-to-end.
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yedla-sai-venkata-sumanth-a677a2240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yedla-sai-venkata-sumanth-a677a2240" height="30" width="40" /></a>
-<a href="https://kaggle.com/ysvsumanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ysvsumanth" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@@ysvsumanth6643" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@@ysvsumanth6643" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ysvsumanth1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ysvsumanth1010" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sumanth1020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumanth1020" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sumanth1010&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SUMANTH1010&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SUMANTH1010&theme=swift&hide_border=false)<br/>
+## 👨‍💻 About Me
+
+- 🔭 Currently working as **SDET QA Automation Test Engineer**
+- 🌱 Learning **Java Spring Boot + AWS** through project-based learning
+- 👯 Looking to collaborate on **AI/ML Engineering & Gen AI Projects**
+- 🤝 Seeking guidance in **AWS, DevOps, and Advanced Spring Boot**
+- 💬 Ask me about **Java, Automation Testing, AI Tools, and Personal Development**
+- 📫 Reach me at **ysvsumanth1010@gmail.com**
+- 📄 [View My Resume](https://ysvsumanth1010.edgeone.app/Sumanth_Resume.pdf)
+
+⚡ **Fun Fact:**  
+I enjoy turning real-world problems into clean code — whether it's solving DSA challenges or building scalable full-stack applications 🚀
+
+---
+
+## 🧠 Professional Summary
+
+Java Spring Boot Developer & SDET with strong computer science fundamentals and enterprise-level experience.
+
+### Key Expertise
+- Backend Development using **Java, Spring Boot, REST APIs**
+- Frontend & Full Stack Development with **JavaScript, React**
+- Automation Testing using **Playwright, Selenium, TypeScript**
+- CI/CD & DevOps workflows
+- AI-assisted testing and productivity engineering
+- Agile, TDD/BDD, scalable architecture, and clean coding practices
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/yedla-sai-venkata-sumanth-a677a2240" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://www.kaggle.com/ysvsumanth" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+</a>
+
+<a href="https://www.youtube.com/@ysvsumanth6643" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+</a>
+
+<a href="https://www.hackerrank.com/ysvsumanth1010" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/sumanth1020" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+### Programming Languages
+`Java` `Python` `JavaScript` `TypeScript` `C` `C#`
+
+### Backend & Frameworks
+`Spring Boot` `Node.js` `Express.js` `React` `React Native`
+
+### Automation & Testing
+`Selenium` `Playwright` `Cypress` `Postman`
+
+### Cloud & DevOps
+`AWS` `Azure` `Docker` `Jenkins` `Nginx`
+
+### Databases
+`MySQL` `PostgreSQL` `MongoDB` `Oracle SQL Server`
+
+### AI/ML & Data Science
+`TensorFlow` `PyTorch` `OpenCV` `Scikit-Learn` `Pandas`
+
+### Other Tools
+`Git` `Linux` `Figma` `Tailwind CSS` `Bootstrap`
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SUMANTH1010&theme=swift&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=SUMANTH1010&theme=swift&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUMANTH1010&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Achievements
-<img width="148" height="148" alt="YOLO_Badge" src="https://github.com/user-attachments/assets/3a502544-9a36-42b0-8cc9-3ccb98365541" />
-<img width="148" height="148" alt="StarStruck_SkinTone1" src="https://github.com/user-attachments/assets/fee5cb7a-9392-4eb9-a40c-cfab5033a6aa" />
-<img width="148" height="148" alt="QuickDraw_SkinTone1" src="https://github.com/user-attachments/assets/8a4438c8-4a73-4ebf-bf07-85953edc4669" />
-<img width="148" height="148" alt="PairExtraordinaire" src="https://github.com/user-attachments/assets/ecedc6d2-4caa-45fd-8397-ecb3dd9f4f1d" />
-<img width="148" height="148" alt="PullShark" src="https://github.com/user-attachments/assets/c9c81377-768a-4b69-9640-a190969d2c0e" />
-<img width="148" height="148" alt="GalaxyBrain" src="https://github.com/user-attachments/assets/ca9056c4-46ad-4db4-bf13-8dc28dc5665c" />
+---
 
-### ✍️ Random Dev Quote
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img width="140" src="https://github.com/user-attachments/assets/3a502544-9a36-42b0-8cc9-3ccb98365541" alt="YOLO Badge"/>
+  <img width="140" src="https://github.com/user-attachments/assets/fee5cb7a-9392-4eb9-a40c-cfab5033a6aa" alt="StarStruck Badge"/>
+  <img width="140" src="https://github.com/user-attachments/assets/8a4438c8-4a73-4ebf-bf07-85953edc4669" alt="QuickDraw Badge"/>
+  <img width="140" src="https://github.com/user-attachments/assets/ecedc6d2-4caa-45fd-8397-ecb3dd9f4f1d" alt="Pair Extraordinaire Badge"/>
+  <img width="140" src="https://github.com/user-attachments/assets/c9c81377-768a-4b69-9640-a190969d2c0e" alt="Pull Shark Badge"/>
+  <img width="140" src="https://github.com/user-attachments/assets/ca9056c4-46ad-4db4-bf13-8dc28dc5665c" alt="Galaxy Brain Badge"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
